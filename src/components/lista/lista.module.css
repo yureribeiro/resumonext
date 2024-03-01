@@ -1,0 +1,8 @@
+.list {
+  border: .1rem solid var(--border);
+  padding: 1rem;
+  border-radius: .5rem;
+  padding: 1rem 3rem;
+  margin: 1rem;
+  width: 100%;
+}

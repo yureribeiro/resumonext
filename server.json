@@ -1,0 +1,64 @@
+{
+  "tecnologias": [
+    {
+      "id": 1,
+      "title": "React"
+    },
+    {
+      "id": 2,
+      "title": "Next"
+    },
+    {
+      "id": "acca",
+      "title": "teste"
+    },
+    {
+      "id": "0991",
+      "title": "teste"
+    },
+    {
+      "id": "d0af",
+      "title": "Next pwa"
+    },
+    {
+      "id": "f691",
+      "title": "Node"
+    },
+    {
+      "id": "e930",
+      "title": "Senior em 6 meses"
+    },
+    {
+      "id": "cb5d",
+      "title": "pagecms"
+    },
+    {
+      "id": "3c91",
+      "title": "pagecms"
+    },
+    {
+      "id": "8b28",
+      "title": "Next pwa"
+    },
+    {
+      "id": "6995",
+      "title": "sfdsadf"
+    },
+    {
+      "id": "18e0",
+      "title": "sfdsadf"
+    },
+    {
+      "id": "5232",
+      "title": "Senior em 6 meses"
+    },
+    {
+      "id": "c0b7",
+      "title": "Senior em 6 meses"
+    },
+    {
+      "id": "6e96",
+      "title": "Senior em 6 meses"
+    }
+  ]
+}
